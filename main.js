@@ -1,4 +1,3 @@
-debugger
 var todolist = ["Morning prayers","Prepare breakfast","Complete frontend practice"]
 
 todolist.push("Review HTML, CSS," , "Watch React.js tutorial")
